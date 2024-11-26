@@ -1,5 +1,5 @@
 
-# Olá! Eu sou o Erick Gustavo! 👋🏼
+# Olá! Eu sou Erick Gustavo! 👋🏼
 #### 🔭 Desenvolvedor Web Front-End e Back-End | HTML5 | CSS3 | JavaSript | PHP | SQL | 
 
 #### 🌱 Meu nome é Erick Gustavo, tenho 17 anos, altualmente estou cursando o Ensino Médio integrado com curso técnico de Informatica para a Internet no IF Baiano - Instituto Federal Baiano

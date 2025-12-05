@@ -5,8 +5,7 @@
 #### 🌱 Meu nome é Erick Gustavo, tenho 18 anos, atualmente estou cursando o Ensino Médio integrado com curso técnico de Informatica para a Internet no IF Baiano - Instituto Federal Baiano
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuxta&show_icons=true&theme=transparent)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <hr>
 

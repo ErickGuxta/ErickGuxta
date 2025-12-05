@@ -1,8 +1,8 @@
 
 # Olá! Eu sou Erick Gustavo! 👋🏼
-#### 🔭 Desenvolvedor Web Front-End e Back-End | HTML5 | CSS3 | JavaSript | PHP | SQL | 
+#### 🔭 Desenvolvedor Web Front-End e Back-End | HTML5 | CSS3 | JavaSript | PHP | SQL | Python3 |
 
-#### 🌱 Meu nome é Erick Gustavo, tenho 17 anos, altualmente estou cursando o Ensino Médio integrado com curso técnico de Informatica para a Internet no IF Baiano - Instituto Federal Baiano
+#### 🌱 Meu nome é Erick Gustavo, tenho 18 anos, altualmente estou cursando o Ensino Médio integrado com curso técnico de Informatica para a Internet no IF Baiano - Instituto Federal Baiano
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuxta&show_icons=true&theme=transparent)
@@ -14,10 +14,12 @@
 
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![html](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![html](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![html](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)]()
 [![html](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![html](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![html](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![html](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![html](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+
 
 <hr>
 

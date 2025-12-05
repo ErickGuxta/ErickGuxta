@@ -2,7 +2,7 @@
 # Olá! Eu sou Erick Gustavo! 👋🏼
 #### 🔭 Desenvolvedor Web Front-End e Back-End | HTML5 | CSS3 | JavaSript | PHP | SQL | Python3 |
 
-#### 🌱 Meu nome é Erick Gustavo, tenho 18 anos, altualmente estou cursando o Ensino Médio integrado com curso técnico de Informatica para a Internet no IF Baiano - Instituto Federal Baiano
+#### 🌱 Meu nome é Erick Gustavo, tenho 18 anos, atualmente estou cursando o Ensino Médio integrado com curso técnico de Informatica para a Internet no IF Baiano - Instituto Federal Baiano
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuxta&show_icons=true&theme=transparent)
